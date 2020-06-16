@@ -1,0 +1,4 @@
+#Sun Mar 22 13:06:32 EET 2020
+base.0=/home/obaida/IdeaProjects/coffee/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
